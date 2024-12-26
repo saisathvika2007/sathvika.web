@@ -1,6 +1,5 @@
 # sathvika.web
 #my village
-<h1>
 Narsipatnam is a town located in the Visakhapatnam district of Andhra Pradesh, India. It is known for its scenic beauty, rich cultural heritage, and historical significance. Situated amidst lush green hills and serene landscapes, Narsipatnam offers a peaceful and tranquil environment. The town is a hub for agriculture, with vast expanses of land cultivated with crops such as paddy, maize, and groundnuts.
 
 
@@ -19,4 +18,4 @@ The town has been steadily developing, with improvements in infrastructure and e
 ![WhatsApp Image 2024-12-26 at 9 31 24 PM (1)](https://github.com/user-attachments/assets/8bd632aa-057a-4fe3-9669-f3e8c8666766)
 
 
-<h1/>
+
